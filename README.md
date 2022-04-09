@@ -31,7 +31,7 @@
   </a>
   
   <a href="https://angular.io/" title="Angular">
-    <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/angular.svg" alt="Angular" width="26px" height="26px"/>
+    <img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="26px" height="26px"/>
   </a>
   
   <a href="https://gulpjs.com/" title="Gulp">
